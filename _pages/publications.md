@@ -17,7 +17,7 @@ Links: [[Conference version]](http://iccvm.org/2023/papers/s9-1-334-TVCG.pdf)  [
 
 - A CN Patent in review: CN2022117179422.
 
-![](/images/pd.png)
+![](/images/pd.png)  ![](/images/pd2.png)
 
 
 
@@ -31,7 +31,7 @@ Journal of Computer-Aided Design & Computer Graphics (in Chinese), presented in 
 
 Links: [[Poster in Chinese]](/files/Poster_P157.pdf)
 
-![](/images/fiber.png)
+![](/images/fiber.png) ![](/images/fiber2.png)
 
 
 
