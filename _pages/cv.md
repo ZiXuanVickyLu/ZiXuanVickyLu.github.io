@@ -51,7 +51,7 @@ Before went to graduation school at Institute of Software, CAS, I have four rese
 
 
 
-Shenyang Institute of Automation, CAS, 2018.7-2018.8
+## Shenyang Institute of Automation, CAS, 2018.7-2018.8
 
 - The six-axis robotic arm kinematics. 
 
