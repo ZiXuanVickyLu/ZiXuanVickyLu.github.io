@@ -10,6 +10,7 @@ author_profile: true
 Lei Lan, **Zixuan Lu**, Jingyi Long, Chun Yuan, Xuan Li, Xiaowei He, Huamin Wang, Chenfanfu Jiang, Yin Yang, ACM Transcations on Graphics (SIGGRAPH Asia 2024), Volume 43, Issue 6, Article No: 226.
 
 Links: [[ACM Digital Library]](https://dl.acm.org/doi/10.1145/3687760) [[Low Res]](/files/gpu_cloth.pdf) [[Demo video]](https://drive.google.com/file/d/1LF-Gz_vdIMG0kAVSuGiNc7NvGVjJtH9u/view)
+
 ![](/images/cloth.png)  
 
 ## Projective Peridynamic Modeling of Hyperelastic Membranes with Contact
