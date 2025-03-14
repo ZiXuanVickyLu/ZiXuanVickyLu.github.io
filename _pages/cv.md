@@ -7,6 +7,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Work Experience
+## Style 3D, Hangzhou, Zhejiang, China, 2024.4-2024.8
+- Rig-driven 4D point cloud garment synthesis. Supervised by **Zhendong Wang**.
+  
+  On this project, we develop a set of algotithm using registered avatar rig and cloth patterns to acelerate cloth simulation/animation given a specific motion sequences.
+
+![](/images/rig1.png) ![](/images/rig2.png)
 
 # Research Experience
 

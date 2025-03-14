@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Efficient GPU Cloth Simulation with Non-distance Barriers and Subspace Reuse
+Lei Lan, **Zixuan Lu**, Jingyi Long, Chun Yuan, Xuan Li, Xiaowei He, Huamin Wang, Chenfanfu Jiang, Yin Yang, ACM Transcations on Graphics(SIGGRAPH Asia 2024), Volume 43, Issue 6, Article No: 226.
+
+Links: [[ACM Digital Library]](https://dl.acm.org/doi/10.1145/3687760) [[Low Res]](/files/gpu_cloth.pdf) [[Demo video]](https://drive.google.com/file/d/1LF-Gz_vdIMG0kAVSuGiNc7NvGVjJtH9u/view)
+![](/images/cloth.png)  
 
 ## Projective Peridynamic Modeling of Hyperelastic Membranes with Contact
 
@@ -25,11 +30,9 @@ Links: [[Conference version]](http://iccvm.org/2023/papers/s9-1-334-TVCG.pdf)  [
 
 **Zixuan Lu**, Hao He, Di Wu , Xuehui Liu,
 
-Journal of Computer-Aided Design & Computer Graphics (in Chinese), presented in Chinagraph2022
+Virtual Fiber-Based Constitute Model for Anisotropic Material Design[J]. Journal of Computer-Aided Design & Computer Graphics, 2024, 36(4): 533-542. DOI: 10.3724/SP.J.1089.2024.19776, presented in Chinagraph2022
 
-(Due to the copyright limit of a in publishing article, the author can not provide the preprint version yet. However, a conference poster is provided to summary the work.)
-
-Links: [[Poster in Chinese]](/files/Poster_P157.pdf)
+Links: [[Poster in Chinese]](/files/Poster_P157.pdf) [[JCAD Library]](https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2024.19776)
 
 ![](/images/fiber.png)     ![](/images/fiber2.png)
 
